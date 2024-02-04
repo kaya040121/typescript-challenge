@@ -34,4 +34,5 @@ interface AddressInfo {
  */
 export function createFullUserInfo(user: FullUserInfo): FullUserInfo {
     // 請在此處寫下你的程式碼
+    return user
 }
